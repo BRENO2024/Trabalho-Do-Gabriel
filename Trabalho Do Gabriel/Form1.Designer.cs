@@ -152,7 +152,7 @@
             this.labelFeedback.BackColor = System.Drawing.Color.Transparent;
             this.labelFeedback.Font = new System.Drawing.Font("Source Code Pro Medium", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.labelFeedback.ForeColor = System.Drawing.Color.White;
-            this.labelFeedback.Location = new System.Drawing.Point(329, 423);
+            this.labelFeedback.Location = new System.Drawing.Point(313, 365);
             this.labelFeedback.Name = "labelFeedback";
             this.labelFeedback.Size = new System.Drawing.Size(75, 20);
             this.labelFeedback.TabIndex = 11;
@@ -165,7 +165,7 @@
             this.checkBox1.BackColor = System.Drawing.Color.Transparent;
             this.checkBox1.Font = new System.Drawing.Font("Segoe UI Black", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.checkBox1.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.checkBox1.Location = new System.Drawing.Point(369, 348);
+            this.checkBox1.Location = new System.Drawing.Point(62, 418);
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(286, 49);
             this.checkBox1.TabIndex = 10;
@@ -178,7 +178,7 @@
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("SuperFrench", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label1.ForeColor = System.Drawing.Color.White;
+            this.label1.ForeColor = System.Drawing.Color.Transparent;
             this.label1.Location = new System.Drawing.Point(369, 170);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(382, 32);
